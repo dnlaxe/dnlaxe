@@ -16,4 +16,4 @@ I build and deploy end-to-end web applications with **TypeScript, React, Node.js
 - **Backend & Data:** Node.js, Express, Go, PostgreSQL, Drizzle ORM, DynamoDB
 - **Cloud & CI/CD:** AWS (CDK, Lambda, S3, CloudFront, SES), GitHub Actions
 
-📫 **Contact:** [dnlaxe@gmail.com](mailto:dnlaxe@gmail.com)
+**Contact:** [dnlaxe@gmail.com](mailto:dnlaxe@gmail.com)
