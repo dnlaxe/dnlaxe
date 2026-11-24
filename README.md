@@ -1,17 +1,22 @@
 ### Hi, I'm Daniel Amess
 
-Mathematics graduate and full-stack software engineer based in South Korea.  
-I build and deploy end-to-end web applications with **TypeScript, React, Node.js, Go, PostgreSQL, and AWS CDK**.
+I'm a math graduate and full-stack developer based in Yongin, South Korea.  
+I build and deploy web apps with **TypeScript, React, Node.js, Go, PostgreSQL, and AWS**.
 
-#### Featured Projects
+#### Projects
 
-| Project | What it is | Stack | Links |
+| Project | What it does | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Pyeonhee** | Serverless community marketplace with direct-to-S3 uploads, contact relay, checkout, and PR-gated OIDC deploys | React, TypeScript, Tailwind, Go, AWS CDK, GitHub Actions | [Live Demo](https://d1aizs6t0hnxnz.cloudfront.net/) · [Repo](https://github.com/dnlaxe/pyeonhee) |
-| **Korea Jobs Board** | Accountless job board with expiring magic links, admin moderation queue, email relay, and write-invalidated caching | TypeScript, Node.js, Express, PostgreSQL, Drizzle ORM | [Live Demo](https://korea-jobs-board.vercel.app/jobs/board) · [Repo](https://github.com/dnlaxe/korea-jobs-board) |
-| **My AI Draw** | On-device classroom ML drawing classifier with deterministic stroke checks, confidence thresholds, and local model saving | React, TypeScript, TensorFlow.js, Canvas API | [Live Demo](https://d3pt40q4jfv85b.cloudfront.net/) · [Repo](https://github.com/dnlaxe/my-ai-draw) |
+| **Pyeonhee** | Community marketplace with image uploads, email contact relay, checkout, and automatic AWS deploys on merge | React, TypeScript, Go, AWS CDK, GitHub Actions | [Live](https://d1aizs6t0hnxnz.cloudfront.net/) · [Code](https://github.com/dnlaxe/pyeonhee) |
+| **My AI Draw** | Classroom drawing app where kids train a small ML model directly in the browser — no cloud APIs | React, TypeScript, TensorFlow.js, Canvas API | [Live](https://d3pt40q4jfv85b.cloudfront.net/) · [Code](https://github.com/dnlaxe/my-ai-draw) |
+| **Korea Jobs Board** | Job board with no user accounts — employers manage posts via magic links, with admin review and email relay | TypeScript, Node.js, Express, PostgreSQL, Drizzle | [Live](https://korea-jobs-board.vercel.app/jobs/board) · [Code](https://github.com/dnlaxe/korea-jobs-board) |
 
-#### Core Stack
+#### Smaller Tools
+- **[Spaced Shorts](https://github.com/dnlaxe/spaced-shorts)** ([Live](https://spaced-shorts.vercel.app)) — Spaced-repetition playlist app for YouTube Shorts
+- **[pregit](https://github.com/dnlaxe/pregit)** — Go CLI for cleaner, more consistent git commits
+- **[aisum](https://github.com/dnlaxe/aisum)** — Go CLI that summarizes terminal output using local Ollama
+
+#### Stack
 - **Frontend:** TypeScript, React, Tailwind CSS, TanStack Query
 - **Backend & Data:** Node.js, Express, Go, PostgreSQL, Drizzle ORM, DynamoDB
 - **Cloud & CI/CD:** AWS (CDK, Lambda, S3, CloudFront, SES), GitHub Actions
