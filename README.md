@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel Amess
 
-Mathematics graduate and full-stack software engineer based in Yongin, South Korea.  
+Mathematics graduate and full-stack software engineer based in South Korea.  
 I build and deploy end-to-end web applications with **TypeScript, React, Node.js, Go, PostgreSQL, and AWS CDK**.
 
 #### Featured Projects
